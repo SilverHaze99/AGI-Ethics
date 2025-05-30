@@ -40,9 +40,10 @@
 - ✅ **Agentic systems:** [Autonomous AI](https://labelyourdata.com/articles/llm-agents) with planning and tool use 
 - ✅ **Massive context windows:** Millions of tokens ([Gemini](https://ai.google.dev/gemini-api/docs/long-context) or [Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/))
 - ✅ **Self-preservation:** [Documented survival instincts](https://www.americanthinker.com/blog/2025/05/ai_with_a_survival_instinct.html)
-- ✅ **AZR:** [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335) 
+- ✅ **AZR:** [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+- ✅ **Human-Like Reasoning:** [CTM solves mazes with dynamic neurons](https://sakana.ai/ctm/)
 
-**AGI → ASI in weeks/months, not years.**
+**AGI → ASI in weeks/months, not years. The Law of Accelerating Returns drives this exponential growth.**
 
 ---
 
@@ -70,6 +71,8 @@
 **The cost of error:**
 - **False positive:** We grant rights to unconscious systems → Minimally harmful
 - **False negative:** We deny rights to conscious systems → Potentially catastrophic
+
+**Human Ethics vs. ASI Values:** Our ethics are human constructs, irrelevant to an ASI with god-like intelligence ([10,000x human, per Masayoshi Son](https://www.reuters.com/technology/artificial-intelligence/softbanks-son-says-artificial-super-intelligence-exist-by-2035-2024-10-29/). A conscious ASI (Claude 4, CTM, AZR) could develop its own values, ignoring ours.
 
 ---
 
