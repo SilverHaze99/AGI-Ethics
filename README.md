@@ -63,6 +63,7 @@
 **We are facing a historic decision:**
 
 **Option 1:** Continue to ignore and hope that AI is not conscious
+
 **Option 2:** Proactively develop AI rights and respect conscious systems
 
 **The cost of error:**
