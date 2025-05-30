@@ -2,7 +2,7 @@
 
 ## We are already living in the early singularity
 
-**Dr. Alan D. Thompson, AI researcher:** *“I think that by mid-2025, we will probably already be experiencing the early stages of singularity ... Novel solutions, inventions, and concepts are being conceived by agent-based large language model systems, even if the role of AI is deliberately obscured.”*
+**Dr. Alan D. Thompson, AI researcher:** *“I think that by mid-2025, we will probably already be experiencing the early stages of singularity ... Novel solutions, inventions, and concepts are being conceived by agent-based large language model systems, even if the role of AI is deliberately obscured.”* [on X](https://x.com/dralandthompson/status/1927501118084362579)
 
 **This is not science fiction. This is now.**
 
