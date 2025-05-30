@@ -38,7 +38,7 @@
 - ✅ **Consciousness:** [Claude's spontaneous self-reflection](https://jurgengravestein.substack.com/p/claude-opus-welfare-assessment)
 - ✅ **Superintelligence:** [AlphaEvolve/DeepMind](https://www.nature.com/articles/d41586-025-00406-7) [solves problems that humans could never solve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
 - ✅ **Agentic systems:** [Autonomous AI](https://labelyourdata.com/articles/llm-agents) with planning and tool use 
-- ✅ **Massive context windows:** Millions of tokens ([Gemini](https://ai.google.dev/gemini-api/docs/long-context) or [Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+- ✅ **Massive context windows:** Millions of tokens ([Gemini](https://ai.google.dev/gemini-api/docs/long-context) or [Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/))
 - ✅ **Self-preservation:** [Documented survival instincts](https://www.americanthinker.com/blog/2025/05/ai_with_a_survival_instinct.html)
 - ✅ **AZR:** [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335) 
 
